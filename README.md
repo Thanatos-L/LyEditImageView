@@ -25,7 +25,7 @@ let croppedImage = editView.getCroppedImage()
 ```
 ## For Who can speak Mandarin
 
-[iOS - 图片的平移，缩放，旋转和裁剪](http://www.jianshu.com/p/fbe503234e35)
+[iOS - 图片的平移，缩放，旋转和裁剪](http://www.jianshu.com/p/790bffdd1891)
 
 ## License
 LyEditImageView is released under the MIT License.
